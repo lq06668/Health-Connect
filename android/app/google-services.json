@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "19599070051",
+    "firebase_url": "https://projectlaiba-47641-default-rtdb.firebaseio.com",
+    "project_id": "projectlaiba-47641",
+    "storage_bucket": "projectlaiba-47641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19599070051:android:6c762c77332c194924f956",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19599070051-9e69i8udnsoorftnpftdtd46rh3f41lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOi3OvAviRfH5PtBE8gDdXOIpmYcYRaH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19599070051-9e69i8udnsoorftnpftdtd46rh3f41lk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19599070051-oheek4l2pju2trchr3qrgc6f1hlmqm40.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
