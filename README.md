@@ -1,16 +1,3 @@
-# flutter_application_1
+# Health Connect
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The primary objectives of this project are to establish a comprehensive platform that enables healthcare institutions across Karachi to transition into digital operations. This platform aims to provide patients with convenient access to a diverse range of healthcare facilities and the associated doctors employed by these institutions. Moreover, it intends to empower patients to easily check the availability of doctors and efficiently schedule appointments with them. Additionally, the platform seeks to facilitate seamless communication between healthcare institutions and patients, serving as a means to address any inquiries or concerns that may arise.
